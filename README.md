@@ -1,6 +1,5 @@
 # Getting Started with the Angular Timeline Component
 
-**Repository Description**  
 This repository provides a quick‑start Angular sample that demonstrates how to create and configure the Syncfusion Angular Timeline component to display events in chronological order.
 
 A quick‑start project that contains example code to configure the Syncfusion Angular Timeline component. The sample shows how to add, align, disable, and reverse timeline items, as well as change the orientation to suit different layout requirements.
